@@ -1,0 +1,9 @@
+ar2 = [12, 14, -95, 3]
+ar1 = [12, -7, 5, 64, -14]
+for x in ar1:
+    if x>0: 
+        print x
+print ",,,,,,,,,,,,,,,,,,,,,,,,,,"
+for x in ar2:
+    if x>0: 
+        print x
